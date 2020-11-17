@@ -1,0 +1,30 @@
+			<td><img src="blackwall_card.jpg" alt="" id="blackwall_card" name="blackwall_card"></td>
+                        <td><img src="blackwall_card.jpg" alt="" id="blackwall_card" name="blackwall_card"></td>
+                        <td><img src="cassandra_card.jpg" alt="" id="cassandra_card" name="cassandra_card"></td>
+                        <td><img src="cassandra_card.jpg" alt="" id="cassandra_card" name="cassandra_card"></td>
+                        <td><img src="solas_card.jpg" alt="" id="solas_card" name="solas_card"></td>
+                        <td><img src="solas_card.jpg" alt="" id="solas_card" name="solas_card"></td>
+                        <td><img src="varric_card.jpg" alt="" id="varric_card" name="varric_card"></td>
+                        <td><img src="varric_card.jpg" alt="" id="varric_card" name="varric_card"></td>
+
+
+                        <td><img src="cole_card.jpg" alt="" id="cole_card" name="cole_card"></td>
+                        <td><img src="cole_card.jpg" alt="" id="cole_card" name="cole_card"></td>
+                        <td><img src="cullen_card.jpg" alt="" id="cullen_card" name="cullen_card"></td>
+                        <td><img src="cullen_card.jpg" alt="" id="cullen_card" name="cullen_card"></td>
+                        <td><img src="leliana_card.jpg" alt="" id="leliana_card" name="leliana_card"></td>
+                        <td><img src="leliana_card.jpg" alt="" id="leliana_card" name="leliana_card"></td>
+                        <td><img src="sera_card.jpg" alt="" id="sera_card" name="sera_card"></td>
+                        <td><img src="sera_card.jpg" alt="" id="sera_card" name="sera_card"></td>
+
+
+
+                        <td><img src="dorian_card.jpg" alt="" id="dorian_card" name="dorian_card"></td>
+                        <td><img src="dorian_card.jpg" alt="" id="dorian_card" name="dorian_card"></td>
+                        <td><img src="ironbull_card.jpg" alt="" id="ironbull_card" name="ironbull_card"></td>
+                        <td><img src="ironbull_card.jpg" alt="" id="ironbull_card" name="ironbull_card"></td>
+                        <td><img src="josephine_card.jpg" alt="" id="josephine_card" name="josephine_card"></td>
+                        <td><img src="josephine_card.jpg" alt="" id="josephine_card" name="josephine_card"></td>
+                        <td><img src="vivienne_card.jpg" alt="" id="vivienne_card" name="vivienne_card"></td>
+                        <td><img src="vivienne_card.jpg" alt="" id="vivienne_card" name="vivienne_card"></td>
+                    
