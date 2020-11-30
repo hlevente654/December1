@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Gép: 127.0.0.1
--- Létrehozás ideje: 2020. Nov 24. 13:02
+-- Létrehozás ideje: 2020. Nov 30. 10:03
 -- Kiszolgáló verziója: 10.4.14-MariaDB
--- PHP verzió: 7.4.11
+-- PHP verzió: 7.2.34
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
@@ -43,7 +43,28 @@ INSERT INTO `jatekos` (`az`, `nev`, `pont`) VALUES
 (3, 'Kormos', 120),
 (4, 'Szabó', 110),
 (5, 'Szabó', 100),
-(6, 'Tornyos', 90);
+(6, 'Tornyos', 90),
+(7, 'jhk', 2);
+
+--
+-- Indexek a kiírt táblákhoz
+--
+
+--
+-- A tábla indexei `jatekos`
+--
+ALTER TABLE `jatekos`
+  ADD PRIMARY KEY (`az`);
+
+--
+-- A kiírt táblák AUTO_INCREMENT értéke
+--
+
+--
+-- AUTO_INCREMENT a táblához `jatekos`
+--
+ALTER TABLE `jatekos`
+  MODIFY `az` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
